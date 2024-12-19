@@ -26,5 +26,3 @@ NYU Tandon School of Engineering
 
 For more details, please refer to the full project report.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/5813928/2908a99c-aad7-44b4-9e7b-6012fc9b8d2b/DL_Final_Project-1.pdf

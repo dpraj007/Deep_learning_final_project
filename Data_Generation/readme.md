@@ -8,4 +8,9 @@ Currently the repo is work in progress
 
 The individual files as part of the bigger pipeline to create synthetic data on niche libraries (ex bokeh here)
 
-changelog_explainer.py
+changelog_explainer.py 
+
+code_sample_gen.py
+
+deprication.py
+
